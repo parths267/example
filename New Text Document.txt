@@ -1,0 +1,17 @@
+http://yourwebsiteforless.com/pal/wp-admin/
+
+User: admin2
+
+Pass: admin2345
+
+
+
+
+FTP: yourwebsiteforless.com
+
+User: yourwebs
+
+Pass: ywfl@777$
+
+
+
